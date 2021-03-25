@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+The ui is far less than desired due to running out of time.
+To help understand how to interact properly
+* 2 buttons will take you to either the create page or the battle page.
+* The 2 inputs for robot ids will allow to create a battle between the two.
+    * Note: The actual turn based battle logic takes place on the server side.
+* Clicking on see info will take you to the page for that robot.
+  You will see the robot's info in input fields, you can make any changes and save
+  and delete the robot entirely.
+* The battle page displays the ids of each robot in the battle and the winners id. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
